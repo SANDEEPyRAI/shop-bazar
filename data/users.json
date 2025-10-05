@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1758976002674,
+    "username": "Admin",
+    "email": "admin@test.com",
+    "password": "$2b$10$pKyRDsNnLLUJUj3/oxT5Xu4ZqVoyl5cf4yRqbRv9rPztHBB1cVsDm",
+    "isAdmin": true
+  },
+  {
+    "id": 1758976691653,
+    "username": "sandeep",
+    "email": "sandeep@gmail.com",
+    "password": "$2b$10$yrdXUjH.VeRpCIi.dCTawODzZ.6/MQZdUj5dIYIqvmyD2DIKQlWHm",
+    "isAdmin": false
+  }
+]

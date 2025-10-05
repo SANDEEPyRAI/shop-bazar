@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Men's Casual Shirt",
+    "description": "Stylish and comfortable cotton shirt, perfect for casual outings.",
+    "image": "https://wrogn.com/cdn/shop/files/1_c168eb5d-e40b-4755-bd44-34b90a05c1d2.webp?v=1756452111",
+    "price": 1499,
+    "discountPrice": 899
+  },
+  {
+    "id": 2,
+    "name": "Wireless Headphones",
+    "description": "Noise-cancelling Bluetooth headphones with long battery life.",
+    "image": "https://images.ctfassets.net/javen7msabdh/5pVnZ8VnnsGVtZKHVwTkO3/3fc93ca82a6f981feb40d5ed8216f048/two-asset-02.jpeg?w=960&fm=avif&q=100",
+    "price": 2999,
+    "discountPrice": 1999
+  },
+  {
+    "id": 3,
+    "name": "Smartphone X Pro",
+    "description": "Latest smartphone with stunning display and powerful processor.",
+    "image": "https://www.techadvisor.com/wp-content/uploads/2022/06/infinix-zero-x-pro-review.jpeg?resize=1536%2C864&quality=50&strip=all",
+    "price": 59999,
+    "discountPrice": 49999
+  },
+  {
+    "id": 4,
+    "name": "Modern Bookshelf",
+    "description": "Stylish wooden bookshelf to organize your book collection.",
+    "image": "https://dukaan.b-cdn.net/700x700/webp/media/343388c4-5621-475b-9552-78546a2238f8.webp",
+    "price": 4999,
+    "discountPrice": 3499
+  },
+  {
+    "id": 5,
+    "name": "Microwave Oven",
+    "description": "Energy-efficient microwave with multiple cooking modes.",
+    "image": "https://www.sencor.com/Sencor/media/content/Products/40046721-09.jpg",
+    "price": 8999,
+    "discountPrice": 7499
+  },
+  {
+    "id": 6,
+    "name": "Running Shoes",
+    "description": "Lightweight and comfortable shoes designed for everyday running.",
+    "image": "https://images.contentstack.io/v3/assets/blt6b512cc60b434656/blt268d5943b00e9aef/657849f6cc647824bfc4316a/asics-choose-running-shoes-lp-article-06032022-2.jpg?format=webp&quality=80",
+    "price": 2999,
+    "discountPrice": 2199
+  },
+  {
+    "id": 7,
+    "name": "Action Figure Toy",
+    "description": "Durable and fun action figure toy suitable for kids above 5 years.",
+    "image": "https://cdn.firstcry.com/education/2022/11/06094158/Toy-Names-For-Kids.jpg",
+    "price": 1299,
+    "discountPrice": 799
+  },
+  {
+    "id": 8,
+    "name": "Luxury Sofa",
+    "description": "Elegant and comfortable sofa for modern living rooms.",
+    "image": "https://www.estre.in/cdn/shop/files/1-min_3f21873a-2bea-43b3-9a64-c8152118dfd9.png?v=1743762874",
+    "price": 29999,
+    "discountPrice": 24999
+  },
+  {
+    "id": 9,
+    "name": "Skincare Kit",
+    "description": "Complete skincare set for glowing and healthy skin.",
+    "image": "https://missuniverseskincare.com/cdn/shop/files/MissU-Web-Complete-Set.jpg?v=1698261590",
+    "price": 1999,
+    "discountPrice": 1499
+  },
+  {
+    "id": 10,
+    "name": "Fitness Dumbbells",
+    "description": "Durable dumbbells for home and gym workouts.",
+    "image": "https://www.dmoose.com/cdn/shop/articles/1_06f4bc5e-476a-4356-991f-56ae4cdb90af.jpg?v=1646922445",
+    "price": 2499,
+    "discountPrice": 1799
+  }
+]
